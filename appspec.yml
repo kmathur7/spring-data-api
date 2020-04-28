@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: target/app.jar
+  - source: /
     destination: /home/ubuntu/spring-app/
 hooks:
   ApplicationStop:
