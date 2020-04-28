@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user/spring-app/
+    destination: /home/ubuntu/spring-app/
 hooks:
   ApplicationStop:
     - location: scripts/stop_server.sh
