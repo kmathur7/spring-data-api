@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /home/ubuntu/spring-app
+cd /home/ec2-user/spring-app
 sudo java -jar app.jar
