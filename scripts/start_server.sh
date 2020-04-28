@@ -1,3 +1,4 @@
 #!/bin/bash
 
-service spring-app start
+cd /home/ubunty/spring-app
+sudo java -jar app.jar

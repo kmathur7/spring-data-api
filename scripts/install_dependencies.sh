@@ -1,3 +1,3 @@
 #!/bin/bash
 
-yum install -y java
+apt-get install -y default-jdk

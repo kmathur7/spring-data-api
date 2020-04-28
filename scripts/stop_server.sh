@@ -1,4 +1,4 @@
 #!/bin/bash
 
-service spring-app stop
+sudo killall java
 exit 0
