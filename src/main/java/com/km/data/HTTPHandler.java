@@ -13,5 +13,5 @@ public class HTTPHandler {
   }
 
   @GetMapping("/")
-  public String homePage() { return "Hello World";}
+  public String homePage() { return "Hello EY";}
 }
