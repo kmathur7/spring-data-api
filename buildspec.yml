@@ -18,4 +18,6 @@ phases:
       # Do not remove this statement. This command is required for AWS CodeStar projects.
 artifacts:
   files:
+    - 'appspec.yml'
+    - 'scripts/*'
     - 'target/app.jar'
